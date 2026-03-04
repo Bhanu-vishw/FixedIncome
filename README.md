@@ -61,10 +61,9 @@ Hull–White interest rate model, stochastic interest rate simulation, term stru
 Libraries:
 QuantLib, pandas, numpy, matplotlib, scipy.
 
-## Treasury Futures Pricing and Basis Analysis
+## Treasury Futures Pricing and Basis Analysis on PCA
 
-Priced U.S. Treasury futures using QuantLib and analyzed the relationship between deliverable bonds and futures contracts.
-Evaluated futures pricing dynamics and the cheapest-to-deliver bond within the Treasury futures delivery basket.
+Priced U.S. Treasury futures using QuantLib and analyzed the relationship between deliverable bonds and futures contracts. Calculated PCA and did senstivity analysis of bonds
 
 Methods / Models:
 Treasury futures pricing, cheapest-to-deliver analysis, yield curve discounting, bond pricing models.
