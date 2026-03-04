@@ -61,4 +61,25 @@ Hull–White interest rate model, stochastic interest rate simulation, term stru
 Libraries:
 QuantLib, pandas, numpy, matplotlib, scipy.
 
+## Treasury Futures Pricing and Basis Analysis
 
+Priced U.S. Treasury futures using QuantLib and analyzed the relationship between deliverable bonds and futures contracts.
+Evaluated futures pricing dynamics and the cheapest-to-deliver bond within the Treasury futures delivery basket.
+
+Methods / Models:
+Treasury futures pricing, cheapest-to-deliver analysis, yield curve discounting, bond pricing models.
+
+Libraries:
+QuantLib, pandas, numpy, matplotlib.
+
+
+## Convertible Bond Pricing using QuantLib
+
+Priced convertible bonds using QuantLib by modeling embedded equity conversion options within fixed income securities.
+Analyzed the hybrid structure of convertible bonds combining bond valuation with equity option pricing dynamics.
+
+Methods / Models:
+Convertible bond pricing, option-adjusted valuation, binomial lattice methods, hybrid fixed income–equity modeling.
+
+Libraries:
+QuantLib, pandas, numpy, matplotlib.
